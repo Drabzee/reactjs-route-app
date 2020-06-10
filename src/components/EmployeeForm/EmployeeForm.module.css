@@ -1,0 +1,10 @@
+.employeeForm {
+  max-width: 500px;
+  background-color: #eee;
+  margin: 100px auto 75px auto;
+  padding: 30px;
+}
+
+.employeeForm form {
+  margin-top: 30px;
+}

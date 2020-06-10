@@ -1,0 +1,13 @@
+header {
+  padding: 156px 0 100px 0;
+}
+
+section {
+  padding: 50px 0;
+}
+
+@media screen and (min-width: 540px) {
+  section {
+    padding: 150px 0;
+  }
+}

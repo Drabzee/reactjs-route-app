@@ -1,0 +1,34 @@
+.employee {
+  margin-top: 100px;
+  padding: 0 10px;
+}
+
+@media screen and (min-width: 540px) {
+  .employee {
+    padding: 0 100px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .employee {
+    padding: 0 200px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .employee {
+    padding: 0 300px;
+  }
+}
+
+.employee table {
+  margin-top: 30px;
+}
+
+.field {
+  width: 33%;
+}
+
+.value {
+  width: 67%;
+}
